@@ -1,6 +1,6 @@
 ## Hey! I am Lucas 👋
 
-- 🌱 I’m currently learning Python
+- Engenharia de Software - UFC 👨‍💻
 
 <div>
   <a href="https://github.com/XxlukaianxX">
