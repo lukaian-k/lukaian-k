@@ -1,3 +1,7 @@
+<div>
+  <img height="" src="https://external-preview.redd.it/6hNY2m1ezJEoG_V_4-cmDLcSE-E1ASFNG2kV_sHi1K0.gif?s=19d342b6087befdf53ab8080979b9298e9c99053">
+</div>
+
 ## Hey! I am Lucas 👋
 
 - Engenharia de Software - UFC 👨‍💻
