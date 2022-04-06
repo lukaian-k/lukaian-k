@@ -5,9 +5,9 @@
 <hr>
 
 <!--links-->
-[![instagram](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/XxlukaianxX)](https://www.instagram.com/_lukaian/)
-[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/XxlukaianxX)](https://www.linkedin.com/in/lukaian/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/XxlukaianxX)](mailto:lukaian8979@hotmail.com)
+[![instagram](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lukaian-k)](https://www.instagram.com/_lukaian/)
+[![linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lukaian-k)](https://www.linkedin.com/in/lukaian/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/lukaian-k)](mailto:lukaian8979@hotmail.com)
   
 </h4>
 
@@ -22,9 +22,9 @@ Estudante de Engenharia de Software - UFC 👨‍💻
 
 <!--stats-->
 <div align="center">
-  <a href="https://github.com/XxlukaianxX">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XxlukaianxX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxlukaianxX&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/lukaian-k">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukaian-k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaian-k&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -39,4 +39,4 @@ Estudante de Engenharia de Software - UFC 👨‍💻
  
  
 <!--snake animation-->
-![snake animation](https://github.com/XxlukaianxX/XxlukaianxX/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/lukaian-k/lukaian-k/blob/output/github-contribution-grid-snake.svg)
