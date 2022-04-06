@@ -35,8 +35,10 @@ Estudante de Engenharia de Software - UFC 👨‍💻
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <hr width="50%">
 </div>
- 
+
  
 <!--snake animation-->
 ![snake animation](https://github.com/lukaian-k/lukaian-k/blob/output/github-contribution-grid-snake.svg)
